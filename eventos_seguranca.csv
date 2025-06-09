@@ -1,0 +1,100 @@
+2025-06-09T13:28:53.008407,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:28:53.008983,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:28:53.013040,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:29:08.058231,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:29:08.058590,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:29:08.063104,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:29:23.104411,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:29:23.104700,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:29:23.108589,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:29:38.142660,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:29:38.142822,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:29:38.146876,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:29:53.186440,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:29:53.186729,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:29:53.192072,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:30:08.236917,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:30:08.237105,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:30:08.240233,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:30:23.278364,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:30:23.278716,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:30:23.283214,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:30:38.312161,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:30:38.312367,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:30:38.316015,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:30:53.363476,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:30:53.363820,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:30:53.368267,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:31:08.415924,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:31:08.416298,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:31:08.421634,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:31:23.469605,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:31:23.469993,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:31:23.475789,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:31:38.521031,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:31:38.521216,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:31:38.525594,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:31:53.575748,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:31:53.576055,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:31:53.580524,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:32:08.603988,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:32:08.604193,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:32:08.607714,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:32:23.643693,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:32:23.643902,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:32:23.647083,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:32:38.671764,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:32:38.671913,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:32:38.674968,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:32:53.708573,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:32:53.708824,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:32:53.711311,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:33:08.759849,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:33:08.760058,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:33:08.763520,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:33:23.815868,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:33:23.816224,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:33:23.821627,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:33:38.875282,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:33:38.875639,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:33:38.880658,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:33:53.926730,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:33:53.927083,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:33:53.930532,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:34:46.225717,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/passwd
+2025-06-09T13:34:46.225993,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/shadow
+2025-06-09T13:34:46.260374,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:34:46.260660,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:34:46.264985,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:35:01.312320,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:35:01.312711,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:35:01.318785,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:35:16.361057,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:35:16.361243,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:35:16.365764,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.
+2025-06-09T13:35:31.419032,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:35:31.419392,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:35:31.423706,AUDITD_MOD,N/A,Alteração no /etc/passwd detectada via auditd
+2025-06-09T13:35:46.456712,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:35:46.456940,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:36:01.483989,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:36:01.484237,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:36:16.533264,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:36:16.533533,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:39:34.780333,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/passwd
+2025-06-09T13:39:34.780562,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/shadow
+2025-06-09T13:39:34.815225,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:39:34.815519,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:39:34.819609,AUDITD_MOD,N/A,Alteração no /etc/passwd detectada via auditd
+2025-06-09T13:41:15.231086,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/passwd
+2025-06-09T13:41:15.231379,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/shadow
+2025-06-09T13:41:15.270412,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:41:15.270820,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:41:15.275732,AUDITD_MOD,N/A,Alteração no /etc/passwd detectada via auditd
+2025-06-09T13:48:30.623008,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/passwd
+2025-06-09T13:48:30.623298,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/shadow
+2025-06-09T13:48:30.657773,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:48:30.658011,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T13:48:30.662854,AUDITD_MOD,N/A,Alteração no /etc/passwd detectada via auditd
+2025-06-09T13:48:33.704174,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
+2025-06-09T13:48:33.704480,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
