@@ -98,3 +98,12 @@
 2025-06-09T13:48:30.662854,AUDITD_MOD,N/A,Alteração no /etc/passwd detectada via auditd
 2025-06-09T13:48:33.704174,LOGIN_OK,darkly,jun 09 12:50:05 kali systemd-logind[951]: New session 47 of user darkly.
 2025-06-09T13:48:33.704480,LOGIN_OK,darkly,jun 09 12:54:52 kali systemd-logind[951]: New session c9 of user darkly.
+2025-06-09T22:47:59.137419,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/passwd
+2025-06-09T22:47:59.137582,FILE_MOD,N/A,Modificação detectada em arquivo crítico: /etc/shadow
+2025-06-09T22:47:59.166687,LOGIN_OK,darkly,jun 09 16:11:24 kali systemd-logind[997]: New session 2 of user darkly.
+2025-06-09T22:47:59.166813,LOGIN_OK,darkly,jun 09 16:11:24 kali systemd-logind[997]: New session 3 of user darkly.
+2025-06-09T22:47:59.166852,LOGIN_OK,teste1234,jun 09 22:21:37 kali systemd-logind[997]: New session c2 of user teste1234.
+2025-06-09T22:47:59.166887,LOGIN_OK,teste1234,jun 09 22:21:37 kali systemd-logind[997]: New session 60 of user teste1234.
+2025-06-09T22:47:59.166920,LOGIN_OK,teste12345,jun 09 22:24:26 kali systemd-logind[997]: New session c3 of user teste12345.
+2025-06-09T22:47:59.166953,LOGIN_OK,teste12345,jun 09 22:24:26 kali systemd-logind[997]: New session 61 of user teste12345.
+2025-06-09T22:47:59.169445,ERRO,N/A,Erro ao verificar auditd: Command 'ausearch -k passwd_changes -ts recent -i' returned non-zero exit status 1.

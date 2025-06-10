@@ -1,0 +1,23 @@
+name: Monitoramento de Segurança
+
+on:
+  push:
+    branches: [ main ]  # Executa ao fazer push na main
+  workflow_dispatch:     # Permite execução manual pelo GitHub
+
+jobs:
+  monitorar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências necessárias
+        run: |
+          sudo apt update
+          sudo apt install -y auditd python3
+
+      - name: Rodar script de monitoramento
+        run: |
+          sudo python3 monitoramento_logs.py
