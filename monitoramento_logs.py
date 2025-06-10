@@ -164,23 +164,25 @@ def monitor_auditd_passwd():
     # ------------------------
 
 def main():
-        print("Iniciando monitoramento... Pressione Ctrl+C para encerrar.")
-        try:
-            while True:
-                sistema = platform.system()
-                monitor_modificacao_arquivos()
+    exec_uma_vez = os.getenv("CI") == "true"  # GitHub Actions define CI=true
+    print("Iniciando monitoramento...")
 
-                if sistema == "Linux":
-                    monitor_login_linux()
-                    monitor_auditd_passwd()
-                elif sistema == "Windows":
-                    monitor_login_windows()
-                else:
-                    log_event("INFO", "N/A", f"Sistema {sistema} não suportado.")
+    try:
+        while True:
+            sistema = platform.system()
+            monitor_modificacao_arquivos()
 
-                time.sleep(900)
-        except KeyboardInterrupt:
-            print("Monitoramento encerrado pelo usuário.")
+            if sistema == "Linux":
+                monitor_login_linux()
+                monitor_auditd_passwd()
+            elif sistema == "Windows":
+                monitor_login_windows()
+            else:
+                log_event("INFO", "N/A", f"Sistema {sistema} não suportado.")
 
-if __name__ == "__main__":
-        main()
+            if exec_uma_vez:
+                break  # para o loop se estiver rodando no CI
+            
+            time.sleep(900)
+    except KeyboardInterrupt:
+        print("Monitoramento encerrado pelo usuário.")
